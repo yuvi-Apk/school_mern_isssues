@@ -2,10 +2,10 @@
  import cors from "cors";
  import path from "path";
  import fs from "fs";
- import dotenv from "dotenv";
+ // import dotenv from "dotenv";
  import { fileURLToPath } from "url";
  import "./Config/db.js";
-  dotenv.config();
+  // dotenv.config();
   // Routes
  import dashboardRoutes from "./Routes/TotalAmount.js";
  import routesFeesApply from "./Routes/RoutesFeesApply.js";
