@@ -1,2 +1,2 @@
-const port = "http://localhost:3000";
+const port = "https://school-mern-isssues-backend.onrender.com";
 export default port;
